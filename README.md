@@ -1,5 +1,5 @@
 # SVD-Image-Compressor
-Image compression with Singular Value Decomposition
+Image compression with Singular Value Decomposition Low Rank Approximation
 - Second project of Advanced Mathematics
 - Written in matlab
 
