@@ -1,6 +1,6 @@
 # SVD-Image-Compressor
 Image compression with Singular Value Decomposition
-- Seond project of Advanced Mathematics
+- Second project of Advanced Mathematics
 - Written in matlab
 
 (SVD) states that every (m × n)‑matrix A can be written as a product
